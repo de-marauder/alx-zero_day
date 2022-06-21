@@ -1,8 +1,3 @@
 #!/bin/bash
-<<<<<<< HEAD
-
-echo "ALX"
-
-=======
-echo "ALX"
+echo "ALX School"
 >>>>>>> parent of a495346... Hot fix
